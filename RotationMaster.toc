@@ -2,6 +2,7 @@
 ## Interface-Classic: 11403
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30400
+## Interface-Cata: 40400
 ## Title: Rotation Master
 ## Version: @project-version@
 ## Author: Makiel
